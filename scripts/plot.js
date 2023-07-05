@@ -44,6 +44,7 @@ function createChart(key){
 	console.log(key);
 	console.log(key);
 
+	
 	newchart = Plot.plot;
 
 	//if( true === true ){
